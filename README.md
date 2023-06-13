@@ -1,4 +1,4 @@
-# The Memories
+# [The Memories](https://we-amigos.netlify.app)
 <img src="https://we-amigos.netlify.app/static/media/memories.9cfa8a4697e085d87136.png" width="150"/>
 
 The Memories is a web application where users can share their images and write about their memories. It provides social media-like features such as liking posts and user authentication. This project is built using the MERN stack.
